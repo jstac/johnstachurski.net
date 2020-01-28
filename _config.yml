@@ -1,0 +1,25 @@
+title: John Stachurski
+description: 'John Stachurski is a Professor of Economics at Australian National University with interests in Markov process theory, asset pricing, dynamic programming and numerical methods.'
+keywords:
+
+timezone: Australia/Sydney
+google_analytics: UA-156994664-1
+
+baseurl: /
+
+sass:
+  sass_dir: /assets/sass
+  style: :compressed
+
+repository:
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle
+
+defaults:
+  - scope:
+      path: '' # an empty string here means all files in the project
+    values:
+      layout: 'default'
