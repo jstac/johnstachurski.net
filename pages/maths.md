@@ -82,4 +82,17 @@ Infinity" by N. Ya. Vilenkin.
   books](http://www.e-booksdirectory.com/mathematics.php): Collection
   of free maths books as PDF files
 
-Other
+## Other Bits and Pieces
+
+I love the work of Escher, especially [this one](http://www.wikipaintings.org/en/m-c-escher/circle-limit-iv). And [here's](http://www.tumblr.com/tagged/proof-that-girls-are-evil) an interesting little equation
+about girls and evil.
+
+Incidentally, the man generally recognized as the founder of modern functional analysis is
+[Stefan Banach](http://en.wikipedia.org/wiki/Stefan_Banach).
+Many fundamental results in normed linear space stem from his 1922 thesis. Another important
+contributor to the theory of abstract spaces was [Maurice Frechet](http://en.wikipedia.org/wiki/Maurice_Ren%C3%A9_Fr%C3%A9chet).
+Frechet also helped generalize the Lebesgue integral to operate on functions of
+arbitrary domain. Within the field of Markov processes, a bright and shining
+light was created by the short career of [Wolfgang Doeblin](http://en.wikipedia.org/wiki/Wolfgang_Doeblin). It's been a huge
+privilege to understand and even contribute a tiny amount to his wonderful
+ideas.

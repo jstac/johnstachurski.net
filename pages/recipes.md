@@ -77,7 +77,7 @@ Optional: Serve with samujan and lettuce leaves
 ## Korean Dressing
 
 - 1 tablespoon
-  `gochujang <http://en.wikipedia.org/wiki/Gochujang>`\ \_
+  [gochujang](http://en.wikipedia.org/wiki/Gochujang)
 - 1 tablespoon rice wine vinegar
 - 1 teaspoon each of soft brown sugar, soy sauce, sesame oil and sesame
   seeds
@@ -204,7 +204,7 @@ fresh coriander. Serve with good crusty bread.
 
 ## Dakjuk
 
-Recipe from `maangchi <http://www.maangchi.com/recipe/dakjuk>`\ \_ and
+Recipe from [maangchi](http://www.maangchi.com/recipe/dakjuk) and
 you should probably read it at the source
 
 - 1 whole chicken
@@ -298,31 +298,9 @@ Pastry:
 
 Filling:
 
-- # 5 green apples, a few sultanas, some lemon juice, sugar to tastePizza Dough
+- 5 green apples, a few sultanas, some lemon juice, sugar to taste
 
-- 153g plain flour
-- 153g oo flour (high grade plain flour)
-- 2~3g dry yeast
-- 8g salt
-- 4g olive oil
-
-Combine flours and salt. Mix dry yeast with 200g lukewarm water. Add
-olive oil. Mix with flours. Knead with hands for about 3 minutes, until
-combined. Rest for 15 minutes. Knead again for 3 and then cut into 2 or
-3 balls. (Three if, like me, you struggle with getting larger pizzas
-onto the stone.) Place under a damp cloth and let rise for 4 hours (or
-24 in cling wrap in fridge).
-
-Preheat oven to 180Â°C. Make the pastry in a food processor. Add flour,
-butter, sugar to processor and pulse mix until it looks like
-breadcrumbs. Mix the egg and add about 80% of it, and then tiny bits of
-cold milk, mixing briefly each time, until it just starts to (or looks
-like it will) come together into a single mass. Pull it out, shape into
-a nice ball, put in cling wrap and leave in fridge for 15 minutes. In
-the meantime, cook the filling in a pot — nothing tricky here. Finally,
-roll out the pastry in two lots, bottom first. Put in filling, roll out
-and put on top. Brush on last bit of egg combined with a little milk and
-sugar. Bake for 45 minutes.
+Preheat oven to 180°C. Make the pastry in a food processor. Add flour, butter, sugar to processor and pulse mix until it looks like breadcrumbs. Mix the egg and add about 80% of it, and then tiny bits of cold milk, mixing briefly each time, until it just starts to (or looks like it will) come together into a single mass. Pull it out, shape into a nice ball, put in cling wrap and leave in fridge for 15 minutes. In the meantime, cook the filling in a pot — nothing tricky here. Finally, roll out the pastry in two lots, bottom first. Put in filling, roll out and put on top. Brush on last bit of egg combined with a little milk and sugar. Bake for 45 minutes.
 
 ## Pizza Dough
 
@@ -332,9 +310,4 @@ sugar. Bake for 45 minutes.
 - 8g salt
 - 4g olive oil
 
-Combine flours and salt. Mix dry yeast with 200g lukewarm water. Add
-olive oil. Mix with flours. Knead with hands for about 3 minutes, until
-combined. Rest for 15 minutes. Knead again for 3 and then cut into 2 or
-3 balls. (Three if, like me, you struggle with getting larger pizzas
-onto the stone.) Place under a damp cloth and let rise for 4 hours (or
-24 in cling wrap in fridge).
+Combine flours and salt. Mix dry yeast with 200g lukewarm water. Add olive oil. Mix with flours. Knead with hands for about 3 minutes, until combined. Rest for 15 minutes. Knead again for 3 and then cut into 2 or 3 balls. (Three if, like me, you struggle with getting larger pizzas onto the stone.) Place under a damp cloth and let rise for 4 hours (or 24 in cling wrap in fridge).

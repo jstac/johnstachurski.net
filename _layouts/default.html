@@ -73,102 +73,81 @@ append: site.title %} {% else %} {% assign page_title = site.title %} {% endif
       ga('send', 'pageview');
     </script>
 
-    <div style="background-color: white; text-align: left; padding: 5px 0px 0px 0px">
-      <a href="#"><img src="/images/birds3.jpg" align="center" height="65" border="20" alt="sampledoc"/></a>
-    </div>
+    <header class="header">
+      <div class="header-image"></div>
 
-    <div class="related" role="navigation" aria-label="related navigation">
-      <h3>Navigation</h3>
-      <ul>
-        <li><a href="/">Home</a>|&nbsp;</li>
-        <li><a href="/pdfs/cv.pdf">CV</a>|&nbsp;</li>
-        <li><a href="https://lectures.quantecon.org">QuantEcon</a></li> 
-      </ul>
-    </div>
+      <nav class="header-nav">
+        <ul>
+          <li><a href="/">home</a></li>
+          <li><a href="/pdfs/cv.pdf">cv</a></li>
+          <li><a href="https://lectures.quantecon.org">quantecon</a></li>
+        </ul>
+      </nav>
+    </header>
 
-      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
-        <div class="sphinxsidebarwrapper">
-          <h3><a href="#">Table of Contents</a></h3>
+    <main class="main">
+      <div class="sidebar">
+        <nav class="main-nav">
+          <h2>Table of Contents</h2>
+
           <ul>
-            {% assign pages = site.pages | where: "menu_item", "true" | sort:"order" %} {% for node
-            in pages %}
-            <li class="toctree-l1"><a class="reference internal" href="{{ node.url | relative_url }}">{{ node.title }}</a></li>
+            {% assign pages = site.pages | where: "menu_item", "true" |
+            sort:"order" %} {% for node in pages %}
+            <li class="{% if page.url == node.url %}active{% endif %}">
+              <a href="{{ node.url | relative_url }}">{{ node.title }}</a>
+            </li>
             {% endfor %}
           </ul>
+        </nav>
 
-          <div id="searchbox" style="display: none" role="search">
-            <h3 id="searchlabel">Quick search</h3>
-              <div class="searchformwrapper">
-              <form class="search" action="search.html" method="get">
-                <input type="text" name="q" aria-labelledby="searchlabel" />
-                <input type="submit" value="Go" />
-              </form>
-              </div>
-          </div>
+        <!--
+        <div class="search">
+          <h2>Search</h2>
 
+          <form>
+            <input type="text" name="q" />
+            <input type="submit" value="Go" />
+          </form>
         </div>
-
+        -->
       </div>
 
-    <div class="document">
-      <div class="documentwrapper">
-        <div class="bodywrapper">
-          <div class="body" role="main">
+      <div class="content">
+        {{ content }}
 
+        <nav class="more-nav">
+          <h2>Read More</h2>
 
-            {{ content }}
-
-            <div class="section" id="read-more">
-<h1>Read More<a class="headerlink" href="#read-more" title="Permalink to this headline">¶</a></h1>
-<div class="toctree-wrapper compound">
-      <ul>
-        {% assign pages = site.pages | where: "menu_item", "true" | sort:"order" %} {% for node
-        in pages %}
-        <li class="toctree-l1"><a class="reference internal" href="{{ node.url | relative_url }}">{{ node.title }}</a></li>
-        {% endfor %}
-      </ul>
-
-</ul>
-</div>
-</div>
-
-          </div>
-        </div>
+          <ul>
+            {% assign pages = site.pages | where: "menu_item", "true" |
+            sort:"order" %} {% for node in pages %}
+            <li class="{% if page.url == node.url %}active{% endif %}">
+              <a href="{{ node.url | relative_url }}">{{ node.title }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+        </nav>
       </div>
-      <div class="clearer"></div>
-    </div>
-    <div class="related" role="navigation" aria-label="related navigation">
-      <h3>Navigation</h3>
-      <ul>
-    <li><a href="/">Home</a>|&nbsp;</li>
-    <li><a href="/pdfs/cv.pdf">CV</a>|&nbsp;</li>
-    <li><a href="https://lectures.quantecon.org">QuantEcon</a></li> 
-      </ul>
-    </div>
-    <div class="footer">
-        &copy; <script type="text/javascript">document.write(new Date().getFullYear());</script>, John Stachurski.
-    </div>
+    </main>
+
+    <footer class="footer">
+      <nav class="footer-nav">
+        <ul>
+          <li><a href="/">home</a>|&nbsp;</li>
+          <li><a href="/pdfs/cv.pdf">cv</a>|&nbsp;</li>
+          <li><a href="https://lectures.quantecon.org">quantecon</a></li>
+        </ul>
+      </nav>
+
+      <div class="footer-content">
+        &copy;
+        <script type="text/javascript">
+          document.write(new Date().getFullYear());
+        </script>
+        , John Stachurski.
+      </div>
+    </footer>
 
     <script src="/assets/js/main.js"></script>
   </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

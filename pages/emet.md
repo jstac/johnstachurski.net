@@ -23,24 +23,22 @@ published
 
 The following is from the preface to the book:
 
-::
-
-This is a quick course on modern econometric and statistical theory, along
-with the underlying ideas from probability and linear algebra that
-budding econometricians should know. The focus is on foundations and general
-principles. Although it was written to teach from, there are many solved
-exercises, making the text well suited to self-study. Exercises, worked
-examples and sample code are used to reinforce ideas.
+> This is a quick course on modern econometric and statistical theory, along
+> with the underlying ideas from probability and linear algebra that
+> budding econometricians should know. The focus is on foundations and general
+> principles. Although it was written to teach from, there are many solved
+> exercises, making the text well suited to self-study. Exercises, worked
+> examples and sample code are used to reinforce ideas.
 
 ## Samples
 
-- [Table of Contents](/pdfs/emet_samples/toc.pdf>`
-- [Chapter 1: Introduction](/pdfs/emet_samples/ch1.pdf>`
-- [Chapter 2: Vector Spaces](/pdfs/emet_samples/ch2.pdf>`
-- [Chapter 3: Linear Algebra and Matrices](/pdfs/emet_samples/ch3.pdf>`
-- [Chapter 8: Estimators](/pdfs/emet_samples/ch8.pdf>`
-- [Chapter 11: Regression](/pdfs/emet_samples/ch11.pdf>`
-- [Chapter 14: Regularization](/pdfs/emet_samples/ch14.pdf>`
+- [Table of Contents](/pdfs/emet_samples/toc.pdf)
+- [Chapter 1: Introduction](/pdfs/emet_samples/ch1.pdf)
+- [Chapter 2: Vector Spaces](/pdfs/emet_samples/ch2.pdf)
+- [Chapter 3: Linear Algebra and Matrices](/pdfs/emet_samples/ch3.pdf)
+- [Chapter 8: Estimators](/pdfs/emet_samples/ch8.pdf)
+- [Chapter 11: Regression](/pdfs/emet_samples/ch11.pdf)
+- [Chapter 14: Regularization](/pdfs/emet_samples/ch14.pdf)
 
 ## Lecture Slides
 
@@ -49,7 +47,7 @@ Thanks to the work of
 of lectures slides are available – both PDF and source (TeX)
 
 - Lecture 1 [PDF](/pdfs/Lecture_1.pdf)|
-  [LaTeX](/downloads/Lecture_1.tex>`)
+  [LaTeX](/downloads/Lecture_1.tex))
 - All other PDFs and source files are available
   [from GitHub](https://github.com/jstac/econometric_theory_slides)
 

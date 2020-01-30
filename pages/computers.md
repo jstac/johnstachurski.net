@@ -65,24 +65,24 @@ Ayatolla of all inductive science is the great
 
 Here’s a nice quote from Vapnik:
 
-_I believe that something drastic has happened in computer science and
-machine learning. Until recently, philosophy was based on the very
-simple idea that the world is simple. In machine learning, for the first
-time, we have examples where the world is not simple. For example, when
-we solve the “forest” problem (which is a low-dimensional problem) and
-use data of size 15,000 we get 85%-87% accuracy. However, when we use
-500,000 training examples we achieve 98% of correct answers. This means
-that a good decision rule is not a simple one, it cannot be described by
-a very few parameters. This is actually a crucial point in approach to
-empirical inference._
+> I believe that something drastic has happened in computer science and
+> machine learning. Until recently, philosophy was based on the very
+> simple idea that the world is simple. In machine learning, for the first
+> time, we have examples where the world is not simple. For example, when
+> we solve the “forest” problem (which is a low-dimensional problem) and
+> use data of size 15,000 we get 85%-87% accuracy. However, when we use
+> 500,000 training examples we achieve 98% of correct answers. This means
+> that a good decision rule is not a simple one, it cannot be described by
+> a very few parameters. This is actually a crucial point in approach to
+> empirical inference.
 
-_This point was very well described by Einstein who said “when the
-solution is simple, God is answering”. That is, if a law is simple we
-can find it. He also said “when the number of factors coming into play
-is too large, scientific methods in most cases fail”. In machine
-learning we dealing with a large number of factors. So the question is
-what is the real world? Is it simple or complex? Machine learning shows
-that there are examples of complex worlds. We should approach complex
-worlds from a completely different position than simple worlds. For
-example, in a complex world one should give up explain-ability (the main
-goal in classical science) to gain a better predict-ability._
+> This point was very well described by Einstein who said “when the
+> solution is simple, God is answering”. That is, if a law is simple we
+> can find it. He also said “when the number of factors coming into play
+> is too large, scientific methods in most cases fail”. In machine
+> learning we dealing with a large number of factors. So the question is
+> what is the real world? Is it simple or complex? Machine learning shows
+> that there are examples of complex worlds. We should approach complex
+> worlds from a completely different position than simple worlds. For
+> example, in a complex world one should give up explain-ability (the main
+> goal in classical science) to gain a better predict-ability.
