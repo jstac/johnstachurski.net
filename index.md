@@ -9,7 +9,7 @@ order: 0
 
 A brief self-introduction: I like mathematics and programming, which is
 good because they occupy most of my waking hours, along with some of my
-dreams.
+dreams..
 
 Currently I am a professor at Australian National University, working on
 optimization and equilibrium problems in economics and finance. I'm also
